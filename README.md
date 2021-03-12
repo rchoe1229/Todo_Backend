@@ -1,24 +1,46 @@
-# README
+# What To Do
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Keep track of your day and what needs to be done!
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+* General Info
+* Video
+* Features
+* Status
+* Challenges
+* Contact
+* Technologies
 
-* System dependencies
+## General Info
 
-* Configuration
+Simple app to track your tasks for the day
 
-* Database creation
+## Video
+Coming soon
 
-* Database initialization
+## Features
 
-* How to run the test suite
+* View list of tasks to complete
+* Add new tasks
+* Delete completed tasks
 
-* Services (job queues, cache servers, search engines, etc.)
+## Status
 
-* Deployment instructions
+Fully functioning
 
-* ...
+## Challenges
+
+React Hooks
+
+## Contact
+
+[Ryan Choe](https://www.linkedin.com/in/ryanchoe1229/)
+
+## Technologies
+
+* Ruby on Rails
+* JavaScript
+* React
+* HTML
+* CSS
